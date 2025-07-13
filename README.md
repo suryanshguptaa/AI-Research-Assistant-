@@ -5,7 +5,6 @@ Features include instant summarization, contextual Q&A, and comprehension challe
 
 ---
 > 🎬 **Demo Video:** [Watch on YouTube](https://youtu.be/gL2ZytDPNec)
-**![Demo Screenshot](https://drive.google.com/file/d/1rmle4LsvJ4i5Id4upXSpo6SzJ-22lglW/view?usp=sharing)**
 
 
 ---
