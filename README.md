@@ -159,17 +159,6 @@ MIT License
 
 ---
 
-## ⭐ Show Your Support
-
-If this project helped you, please star ⭐ the repo and share it!
-
----
-
-**![Demo Screenshot](https://drive.google.com/file/d/1rmle4LsvJ4i5Id4upXSpo6SzJ-22lglW/view?usp=sharing)**
-
-[🎬 Watch the Demo Video](https://youtu.be/gL2ZytDPNec)
-```
-
 **How to use:**
 - Replace `yourusername` in the GitHub URLs with your actual GitHub username.
 - Replace `image.jpg` with the actual path/filename of your screenshot in the repo.
